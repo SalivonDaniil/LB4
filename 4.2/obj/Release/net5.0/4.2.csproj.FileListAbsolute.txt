@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.exe
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.deps.json
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.runtimeconfig.json
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.dll
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\ref\4.2.dll
+C:\Users\Professional\source\repos\4.2\bin\Release\net5.0\4.2.pdb
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.AssemblyInfo.cs
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.dll
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\ref\4.2.dll
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.pdb
+C:\Users\Professional\source\repos\4.2\obj\Release\net5.0\4.2.genruntimeconfig.cache
